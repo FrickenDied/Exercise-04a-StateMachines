@@ -1,7 +1,7 @@
 # Exercise04a-StateMachines
 
 ## Implementation
-Which features you included.
+Added animations that adapt based on the current state of the character
 
 ## References
 
@@ -10,6 +10,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Will add a tile map and basic enemies
 
 ## Created by
-Nathan Mishler
+Samuel Styer
